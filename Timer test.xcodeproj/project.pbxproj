@@ -54,10 +54,10 @@
 		0D9D0A781F8EDFE1008620F0 /* Timer test */ = {
 			isa = PBXGroup;
 			children = (
-				0D9D0A791F8EDFE1008620F0 /* AppDelegate.swift */,
-				0D9D0A7B1F8EDFE1008620F0 /* ViewController.swift */,
 				0D9D0A7D1F8EDFE1008620F0 /* Main.storyboard */,
+				0D9D0A7B1F8EDFE1008620F0 /* ViewController.swift */,
 				0D9D0A801F8EDFE1008620F0 /* Assets.xcassets */,
+				0D9D0A791F8EDFE1008620F0 /* AppDelegate.swift */,
 				0D9D0A821F8EDFE1008620F0 /* LaunchScreen.storyboard */,
 				0D9D0A851F8EDFE1008620F0 /* Info.plist */,
 			);
